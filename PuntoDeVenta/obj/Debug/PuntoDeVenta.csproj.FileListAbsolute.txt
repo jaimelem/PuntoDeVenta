@@ -1,0 +1,15 @@
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojAssemblyReference.cache
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Form1.resources
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.RegistroProveedor.resources
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\bin\Debug\Dapper.dll
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\bin\Debug\Dapper.xml
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CopyComplete
+C:\Users\sick_\Documents\Programacion\Microsoft\C#\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.ListaProveedores.resources
